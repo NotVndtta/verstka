@@ -1,6 +1,7 @@
 :root {
     --textColor: black;
     --extraColor: #ebd96b;
+    --gray: #7f7f7f;
 }
 body {
     font-family: 'Poppins', sans-serif;
