@@ -1,5 +1,6 @@
 import Header from './components/Header/Header.jsx';
 import Arrivals from './components/arrivals/Arrivals.jsx';
+import Banner from './components/banner/Banner.jsx';
 import Brands from './components/brands/Brands.jsx';
 import Promo from './components/promo/Promo.jsx';
 function App() {
@@ -10,6 +11,7 @@ function App() {
       <Promo />
       <Brands />
       <Arrivals />
+      <Banner />
     </div>
   );
 }
