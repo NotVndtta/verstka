@@ -1,0 +1,11 @@
+
+.favourite__header{
+    display: flex;
+}
+
+.favourite__img {
+    display: flex;
+    justify-content: space-between;
+    column-gap: 48px;
+    margin-top: 118px;
+}
