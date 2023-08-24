@@ -1,4 +1,5 @@
 import Header from './components/Header/Header.jsx';
+import Application from './components/application/Application.jsx';
 import Arrivals from './components/arrivals/Arrivals.jsx';
 import Banner from './components/banner/Banner.jsx';
 import Brands from './components/brands/Brands.jsx';
@@ -14,6 +15,7 @@ function App() {
       <Arrivals />
       <Banner />
       <Favourite/>
+      <Application/>
     </div>
   );
 }

@@ -1,0 +1,47 @@
+.application {
+    margin-top: 220px;
+}
+
+.application_text {
+    margin-top: 181px;
+    margin-left: 119px;
+}
+.application_main_text {
+    display: flex;
+
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 1.5;
+    letter-spacing: 0.06em;
+}
+
+.application_description {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 1.25;
+    letter-spacing: -0.04em;
+
+    margin-top: 41px;
+   
+}
+
+.application_logos {
+    display: flex;
+    justify-content: space-between;
+    column-gap: 19px;
+
+    margin-top: 65px;
+   margin-right: 354px;
+    
+}
+
+
+.application_content {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 218px;    
+    
+}
+.application_voucher {
+    position: relative;
+}
