@@ -3,6 +3,7 @@ import Application from './components/application/Application.jsx';
 import Arrivals from './components/arrivals/Arrivals.jsx';
 import Banner from './components/banner/Banner.jsx';
 import Brands from './components/brands/Brands.jsx';
+import Community from './components/community/Community.jsx';
 import Favourite from './components/favourites/Favourite.jsx';
 import Promo from './components/promo/Promo.jsx';
 function App() {
@@ -16,6 +17,7 @@ function App() {
       <Banner />
       <Favourite/>
       <Application/>
+      <Community/>
     </div>
   );
 }
