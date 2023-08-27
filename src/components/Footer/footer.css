@@ -1,0 +1,117 @@
+.footer_content {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 119px;
+    padding-bottom: 147px;
+    padding-left: 100px;
+    column-gap: 405px;
+    background-color: black;
+}
+
+.footer_fashion{
+    display: flex;
+
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 1.5;
+    letter-spacing:  0.03em;
+    text-align: left;
+
+    color: white;
+
+}
+
+.footer_description {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 2;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: #8E8E8E;
+    
+    margin-top: 32px;
+
+}
+
+.footer_icons{
+    display:inline-flex;
+    justify-content: space-between;
+    margin-top: 24px;
+    column-gap: 14px;
+
+}
+
+.footer_links{
+    display: flex;
+    justify-content: space-between;
+    column-gap: 111px;
+}
+.footer_company {
+    text-align: left;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 2;
+    letter-spacing: 0.02em;
+    color: white;
+}
+
+.footer_quick_link {
+    color: white;
+
+    text-align: left;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 2;
+    letter-spacing: 0.02em;
+
+}
+
+.footer_legal {
+    color: white;
+   
+    text-align: left;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 2;
+    letter-spacing: 0.02em;
+
+    margin-right: 100px;
+}
+
+.company_links {
+    display: inline-block;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 3.5;
+    letter-spacing: 0.02em;
+
+}
+
+.company_links a {
+    color: #8E8E8E;
+}
+
+.quick_links {
+    display: inline-block;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 3.5;
+    letter-spacing: 0.02em;
+
+}
+
+.quick_links a {
+    color: #8E8E8E;
+}
+
+.legal_links {
+    display: inline-block;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 3.5;
+    letter-spacing: 0.02em;
+}
+
+.legal_links a {
+    color: #8E8E8E;
+}

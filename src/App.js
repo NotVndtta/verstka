@@ -1,3 +1,4 @@
+import Footer from './components/Footer/footer.jsx';
 import Header from './components/Header/Header.jsx';
 import Application from './components/application/Application.jsx';
 import Arrivals from './components/arrivals/Arrivals.jsx';
@@ -15,9 +16,10 @@ function App() {
       <Brands />
       <Arrivals />
       <Banner />
-      <Favourite/>
-      <Application/>
-      <Community/>
+      <Favourite />
+      <Application />
+      <Community />
+      <Footer />
     </div>
   );
 }
